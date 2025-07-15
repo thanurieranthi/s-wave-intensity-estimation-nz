@@ -1,6 +1,6 @@
 # Comprehensive Study on Estimating S-Wave Intensity in New Zealand Earthquakes
 
-This repository contains documentation and resources related to a Master's research project conducted at the University of Colombo, Sri Lanka. The study focuses on estimating S-wave intensity (specifically, Peak Ground Velocity - PGV) using Linear Mixed-Effects Models (LMM) applied to New Zealand earthquake data.
+The study focuses on estimating S-wave intensity (specifically, Peak Ground Velocity - PGV) using Linear Mixed-Effects Models (LMM) applied to New Zealand earthquake data.
 
 ---
 
@@ -17,17 +17,13 @@ Data from 54,000+ waveforms across 12,000+ earthquakes (2013–2022) was obtaine
 
 ## 📁 Repository Structure
 
-├── thesis/ # Thesis report and abstract files
-│ ├── Thesis_Report.pdf
-│ ├── Abstract.pdf
-│ └── Extended_Abstract.pdf
+| Folder          | Contents                                                                 |
+|----------------|--------------------------------------------------------------------------|
+| `thesis/`       | Full thesis report (PDF)                                         |
+| `scripts/`      | R source code used for data preprocessing, model building, and analysis  |
+| `publications/` | Abstract and extended abstract presented at the Annual Research Symposium 2024 |
+| Root files      | `README.md`, `LICENSE`, and `CITATION.md` for documentation and rights   |
 
-├── scripts/ # R scripts used in analysis
-│ ├── data_preprocessing.R
-│ ├── model_building.R
-│ └── visualization.R
-
-├── README.md
 
 
 ---
