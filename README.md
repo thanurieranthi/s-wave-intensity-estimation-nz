@@ -20,7 +20,7 @@ Data from 54,000+ waveforms across 12,000+ earthquakes (2013–2022) was obtaine
 | Folder          | Contents                                                                 |
 |----------------|--------------------------------------------------------------------------|
 | `thesis/`       | Full thesis report (PDF)                                         |
-| `scripts/`      | R source code used for data preprocessing, model building, and analysis  |
+| `R scripts/`      | R source code used for data preprocessing, model building, and analysis  |
 | `publications/` | Abstract and extended abstract presented at the Annual Research Symposium 2024 |
 | Root files      | `README.md`, `LICENSE`, and `CITATION.md` for documentation and rights   |
 
