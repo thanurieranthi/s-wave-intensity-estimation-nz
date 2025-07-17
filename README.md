@@ -34,6 +34,13 @@ Data from 54,000+ waveforms across 12,000+ earthquakes (2013–2022) was obtaine
 
 ---
 
+## 📄 Publication
+
+The abstract paper of this research is available on **ResearchGate**:  
+[https://www.researchgate.net/publication/393725838_Comprehensive_analysis_of_S-wave_intensity_prediction_in_New_Zealand_earthquakes_A_multilevel_modeling_approach](https://www.researchgate.net/publication/393725838_Comprehensive_analysis_of_S-wave_intensity_prediction_in_New_Zealand_earthquakes_A_multilevel_modeling_approach)
+
+---
+
 ## 📘 Citation
 
 Eranthi, E.V.T., G. P. Lakraj (2024). *Comprehensive analysis of S-wave intensity prediction in New Zealand earthquakes: A multilevel modeling approach.* M.Sc. Thesis, University of Colombo.
